@@ -18,7 +18,7 @@ read -p "Masukan No Target Contoh 895397094109 : " nomor
 link="https://id.jagreward.com/member/verify-mobile/$nomor"
 curl -s $link
 else
-echo "Trima Kasih Sudah Menggunakan Tools ini"
+echo "Terima Kasih Sudah Menggunakan Tools ini"
 exit
 fi
 echo
